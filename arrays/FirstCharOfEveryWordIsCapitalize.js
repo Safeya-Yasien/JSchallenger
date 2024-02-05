@@ -1,4 +1,4 @@
-let a = "first char of every word is capitalize";
+let a = "Check if property exists in object and is truthy";
 
 let words = a.split(" ");
 
@@ -8,3 +8,4 @@ let capitalizedWords = words.map(
 );
 
 console.log(capitalizedWords.join(""));
+
